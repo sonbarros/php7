@@ -21,7 +21,7 @@
         break;
     }
      
-  // Aula #2.2 (Prática): A Linguagem PHP 
+  // Aula #2.2 (Prática): A Linguagem PHP ; em 40min
   ?>
   </body>
 <html>
